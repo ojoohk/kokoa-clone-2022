@@ -15,3 +15,8 @@
 .screen-header__icon span {
     margin-left: 25px;
 }
+
+
+.screen-header__icon span:last-child {
+    position: relative;
+}
